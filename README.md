@@ -8,4 +8,4 @@ The first webapp is implemented using Ruby and Sinatra library.
 The Sinatra based hangperson game is deployed at: https://radiant-basin-97994.herokuapp.com/new
 
 The second webapp is implemented using Ruby and Rails framework.
-The Ruby on Rails hangperson game is deployed at:
+The Ruby on Rails hangperson game is deployed at:https://thawing-wildwood-35742.herokuapp.com/
